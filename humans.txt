@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Wayne Roesner   wayne@whatazoo.com  @wroesner
 
 # THANKS
 

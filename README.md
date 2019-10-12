@@ -20,4 +20,4 @@ Pay up, MO MONEY
 
 ## Copyright
 
-2019 Git Training
+2019 all rights Git Training

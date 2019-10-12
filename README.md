@@ -8,7 +8,7 @@ This is example is to show different parts of the Git repository and various com
 
 ## Purpose
 
-As stated above, lksdjf ;ldjsfk s;lk j the main purpose is to provide simple examples for Git training demos.
+As stated above, lksdjf ;ldj the main purpose is to provide simple examples for Git training demos.
 
 ## Deployment
 

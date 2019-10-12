@@ -16,7 +16,7 @@ This is a simple web project, deployment can be any web server or even local fil
 
 ## How To Contribute
 
-Pay up
+Pay up, MO MONEY
 
 ## Copyright
 
